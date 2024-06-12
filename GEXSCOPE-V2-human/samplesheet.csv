@@ -1,0 +1,4 @@
+sample,fastq_1,fastq_2
+X,https://github.com/singleron-RD/scrna_test_data/raw/master/GEXSCOPE-V2-human/prefixX_001_R1.fq.gz,https://github.com/singleron-RD/scrna_test_data/raw/master/GEXSCOPE-V2-human/prefixX_001_R2.fq.gz
+X,https://github.com/singleron-RD/scrna_test_data/raw/master/GEXSCOPE-V2-human/prefixX_002_R1.fq.gz,https://github.com/singleron-RD/scrna_test_data/raw/master/GEXSCOPE-V2-human/prefixX_002_R2.fq.gz
+Y,https://github.com/singleron-RD/scrna_test_data/raw/master/GEXSCOPE-V2-human/prefixY_001_R1.fq.gz,https://github.com/singleron-RD/scrna_test_data/raw/master/GEXSCOPE-V2-human/prefixY_001_R2.fq.gz

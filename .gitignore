@@ -1,0 +1,6 @@
+*.sh
+tmp/
+*.csv
+
+!manifest.csv
+!samplesheet.csv
